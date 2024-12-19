@@ -21,19 +21,18 @@ Welcome to my GitHub profile! I'm passionate about:
 ## 💻 Projects
 Here are some of the notable projects I’ve worked on during my academic journey:
 
-### **2. [Adhd in social media](https://github.com/NourJadiri/mental_health_disorders_analysis)**
-- **Description**:\
-The main purpose of the project was to put in place a protocole of data collection within the production lines of the [Geberit](https://www.geberit.com/)'s factory in Haldensleben, Germany. 
-- **Technologies Used**: MS SQL Server, C#, CSHTML, OPC-UA , SAP Plant Connectivity (pco), ASP.NET.
+### **[1](adhd_project). [Adhd in social media](https://github.com/NourJadiri/mental_health_disorders_analysis)**
+- **[Description]**:\
+In this project we try to scrap Reddit posts and Tiktok videos in order to exctract data related to Adhd (self diagnosis, self medication, gender...)
+- **Technologies Used**: Python, Pandas, Airflow, Docker, Redis.
 - **Highlights**:
-  - **Stakeholder Engagement & Database Design:** Collaborated with stakeholders to align solutions with business goals, contributing to the design of the database schema in SQL Server.
-    Furthermore it helped deciding an appropriate communication protocols (OPC-UA and SAP Plant Connectivity).
-  - **Dashboards & Real-Time Data Viewing:** Designed interactive dashboards in C# and CSHTML using the MVC model to highlight key performance indicators (KPIs) and provide real-time data visualization.
+  - **Data Scrapping** Using Reddit Api to scrapp data 
+  - **Data augmentation** Usage of LLM models (Mistral)  to analyse posts and extract data in order to enrich our results 
 
 
 
 
-### **1. [GEBERIT_webHMI](https://github.com/fasfous92/Geberit_WebHMI)**
+### **2. [GEBERIT_webHMI](https://github.com/fasfous92/Geberit_WebHMI)**
 - **Description**:\
 The main purpose of the project was to put in place a protocole of data collection within the production lines of the [Geberit](https://www.geberit.com/)'s factory in Haldensleben, Germany. 
 - **Technologies Used**: MS SQL Server, C#, CSHTML, OPC-UA , SAP Plant Connectivity (pco), ASP.NET.
@@ -52,7 +51,7 @@ The main purpose of the project was to put in place a protocole of data collecti
 
 
 ## 🔭 Current Work
-- I’m currently working on [current project or learning focus].
+- I’m currently working on [Adhd_in_social_media](adhd_project)
 
 ---
 
