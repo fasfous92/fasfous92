@@ -22,12 +22,14 @@ Welcome to my GitHub profile! I'm passionate about:
 Here are some of the notable projects I’ve worked on during my academic journey:
 
 ### **[1](adhd_project). [Adhd in social media](https://github.com/NourJadiri/mental_health_disorders_analysis)**
-- **[Description]**:\
-In this project we try to scrap Reddit posts and Tiktok videos in order to exctract data related to Adhd (self diagnosis, self medication, gender...)
-- **Technologies Used**: Python, Pandas, Airflow, Docker, Redis.
+- **Description**:\
+The main purpose of this project is to implement an ETL (Extract, Transform, Load) pipeline to collect and process data from social media platforms like Reddit and HealthUnlocked. The project focuses on extracting data about ADHD and aims to extract demographics using an agentic/LLM approach to enrich the dataset with valuable insights.
+- **Technologies Used**: Python, Pandas, Airflow, Docker, Redis, Reddit API, HealthUnlocked API, MongoDB, Mistral LLM, Ollama 1B LLMs
 - **Highlights**:
-  - **Data Scrapping** Using Reddit Api to scrapp data 
-  - **Data augmentation** Usage of LLM models (Mistral)  to analyse posts and extract data in order to enrich our results 
+  - **Data Ingestion & Storage**: Implemented a robust data ingestion pipeline to scrape posts from Reddit and HealthUnlocked. Ensured data quality by checking for duplicates using Redis and storing the data in MongoDB.
+  - **Data Augmentation**: Utilized Large Language Models (LLMs) like Mistral and Ollama 1B to perform sentiment analysis, keyword extraction, gender inference, and detection of self-diagnosis and self-medication mentions, enriching the dataset with valuable insights.
+  - **Data Cleaning & Staging**: Processed and cleaned the augmented data using pandas, ensuring consistency and accuracy before transferring it to the staging database.
+  - **Production Database**: Designed a common database schema to facilitate efficient querying and visualization, preparing the data for in-depth analysis and reporting.
 
 
 
@@ -51,7 +53,7 @@ The main purpose of the project was to put in place a protocole of data collecti
 
 
 ## 🔭 Current Work
-- I’m currently working on [Adhd_in_social_media](adhd_project)
+- I’m currently working on [AI_Calendar](https://github.com/fasfous92/AI_Calendar)
 
 ---
 
