@@ -9,8 +9,17 @@ Welcome to my GitHub profile! I'm passionate about:
 ---
 
 ## 🏫 Education
-- **[Insa Lyon](https://if.insa-lyon.fr/en)**, Computer Science Engineer
-  - September 2020 - July 2025
+
+- **[École Polytechnique](https://www.polytechnique.edu/)**, Master in Data Science
+  - September 2025 - December 2026 (Ongoing)
+  - Relevant Courses: 
+    - Optimization for Data Science
+    - Deep Learning (pytorch, Keras)
+    - Advanced AI for text and graphs 
+
+
+- **[Insa Lyon](https://if.insa-lyon.fr/en)**, Sfotware Engineer
+  - September 2020 - July 2025 (Validated)
   - Relevant Courses: 
     - Foundation of Data Engineering
     - Machine Learning and Data Analytics
