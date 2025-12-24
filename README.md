@@ -7,6 +7,11 @@ Welcome to my GitHub profile! I'm passionate about:
 >I love solving real-world problems through code 
 
 ---
+## 🔭 Current Work
+- I’m currently working on  graph embedding of molecules : [Molecul prediction model](https://github.com/clemdst/ALTEGRAD-2025)
+
+---
+
 
 ## 🏫 Education
 
@@ -63,11 +68,6 @@ A robust AI assistant that helps users navigate the Paris transport network. It 
 - **Frameworks & Tools**: [Docker, vue.js, Git, Pandas, Tenserflow, Sklearn, pytorch]
 - **Databases**: [e.g., MySQL, MongoDB, Redis, Neo4j, Kafka]
 
-
-## 🔭 Current Work
-- I’m currently working on  graph embedding of modlecules : [Molecul prediction model](https://github.com/clemdst/ALTEGRAD-2025)
-
----
 
 ## 📫 How to Reach Me
 - **Email**: [youssefsidhom92@gmail.com](youssefsidhom92@gmail.com)
