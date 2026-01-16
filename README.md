@@ -35,7 +35,22 @@ Welcome to my GitHub profile! I'm passionate about:
 ## 💻 Projects 
 Here are some of the notable projects I’ve worked on during my academic journey:
 
-### **[1](public_transport_RAG). [🗼 Paris Metro AI Agent](https://github.com/fasfous92/public_transport_RAG)**
+### **[1](public_transport_RAG). [🧬 Molecula Graph Captioning](https://github.com/fasfous92/Molecular_graph_captionning)**
+
+**Bridging Structured Chemical Graphs and Natural Language** A sophisticated multi-modal system that translates 2D molecular structures into human-readable scientific descriptions. It aligns symbolic graph representations with semantic text using a dual-tower architecture and contrastive learning to automate chemical database enrichment and drug discovery reporting.
+
+
+
+**🧠 AI:** ChEmbed (BASF-AI) & Graph Transformer with Global Self-Attention.
+**Architecture:** Dual-Tower Encoder with Trainable Adapter Layers.
+**Techniques:** InfoNCE Contrastive Loss, Hard Negative Mining via Tanimoto Similarity, and Matryoshka Representation Learning.
+**Focus:** Multi-modal Alignment, Graph Representation Learning, and Domain-Specific NLP.
+
+>🔍 **[Check out the Code](https://github.com/fasfous92/Molecular_graph_captionning)**
+
+
+
+### **[2](public_transport_RAG). [🗼 Paris Metro AI Agent](https://github.com/fasfous92/public_transport_RAG)**
 
 **Real-time RAG Agent for Public Transport**
   
@@ -49,7 +64,7 @@ A robust AI assistant that helps users navigate the Paris transport network. It 
 >🔍 **[Check out the Code]( https://github.com/fasfous92/public_transport_RAG)**
     
 
-### **[2](QSA_tennis_bounce_hit). [🎾 Tennis Trajectory Analysis & Event Detection](https://github.com/fasfous92/QSA_tennis_bounce_hit)**
+### **[3](QSA_tennis_bounce_hit). [🎾 Tennis Trajectory Analysis & Event Detection](https://github.com/fasfous92/QSA_tennis_bounce_hit)**
 
 **Dataset:** 2025 Roland Garros Final (Time-series sequences) 
 
