@@ -41,10 +41,10 @@ Here are some of the notable projects I’ve worked on during my academic journe
 
 
 
-**🧠 AI:** ChEmbed (BASF-AI) & Graph Transformer with Global Self-Attention.
-**Architecture:** Dual-Tower Encoder with Trainable Adapter Layers.
-**Techniques:** InfoNCE Contrastive Loss, Hard Negative Mining via Tanimoto Similarity, and Matryoshka Representation Learning.
-**Focus:** Multi-modal Alignment, Graph Representation Learning, and Domain-Specific NLP.
+* **🧠 AI:** ChEmbed (BASF-AI) & Graph Transformer with Global Self-Attention.
+* **Architecture:** Dual-Tower Encoder with Trainable Adapter Layers.
+* **Techniques:** InfoNCE Contrastive Loss, Hard Negative Mining via Tanimoto Similarity, and Matryoshka Representation Learning.
+* **Focus:** Multi-modal Alignment, Graph Representation Learning, and Domain-Specific NLP.
 
 >🔍 **[Check out the Code](https://github.com/fasfous92/Molecular_graph_captionning)**
 
