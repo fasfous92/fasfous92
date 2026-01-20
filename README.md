@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about:
 ## 💻 Projects 
 Here are some of the notable projects I’ve worked on during my academic journey:
 
-### **[1](public_transport_RAG). [🧬 Molecula Graph Captioning](https://github.com/fasfous92/Molecular_graph_captionning)**
+### **[1](public_transport_RAG). [🧬 Molecular Graph Captioning](https://github.com/fasfous92/Molecular_graph_captionning)**
 
 **Bridging Structured Chemical Graphs and Natural Language** A sophisticated multi-modal system that translates 2D molecular structures into human-readable scientific descriptions. It aligns symbolic graph representations with semantic text using a dual-tower architecture and contrastive learning to automate chemical database enrichment and drug discovery reporting.
 
