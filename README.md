@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Youssef Sidhom
+# 👋 Hi, I'm Youssef Sidhom 
 Welcome to my GitHub profile! I'm passionate about:
-- **Data engineering**
+- **AI EngineerData engineering**
 - **Data science**
 - **Machine learning**
 >I love solving real-world problems through code 
@@ -20,10 +20,11 @@ Welcome to my GitHub profile! I'm passionate about:
   - Relevant Courses: 
     - Optimization for Data Science
     - Deep Learning (pytorch, Keras)
+    - Reinforcement Learning 
     - Advanced AI for text and graphs (LoRa, RAG, graph AI)
 
 
-- **[Insa Lyon](https://if.insa-lyon.fr/en)**, Sfotware Engineer
+- **[Insa Lyon](https://if.insa-lyon.fr/en)**, Software Engineer
   - September 2020 - July 2025 (Validated)
   - Relevant Courses: 
     - Foundation of Data Engineering
@@ -35,7 +36,20 @@ Welcome to my GitHub profile! I'm passionate about:
 ## 💻 Projects 
 Here are some of the notable projects I’ve worked on during my academic journey:
 
-### **[1](public_transport_RAG). [🧬 Molecular Graph Captioning](https://github.com/fasfous92/Molecular_graph_captionning)**
+### **[1](aigora). [⚖️ AiGORA](https://github.com/VinzentNagel/AiGORA)** 
+**Multi-Agent Structural Bias Assessment for Educational Content**
+* **🥇 First Prize Winner** at the IPAI Foundation Hackathon on Education. Uses multiple LLM agents debating each other through a Socratic framework to identify different types of bias in educational text.
+
+- Agents analyze text from different angles and synthesize their findings to surface nuanced bias patterns with quantitative scores. The debate approach helps catch biases that single-model analysis would miss.
+- Evaluates content across customizable bias dimensions, combining agent outputs into consolidated results with visual summaries and detailed breakdowns by dimension.
+
+### **[2](bounded_box_detection). [📄 Bounded Box Detection for Document Authentication](https://github.com/fasfous92/Object_detection_in_documents)**
+**Vision-Language Fine-tuning for Automated Document Verification**
+- Capstone project applying LoRA fine-tuning to Qwen2.5-VL and InternVL 2.0 to improve visual grounding and bounding box detection on document images.
+- Evaluated four detection paradigms (YOLO11n, RT-DETR, Mistral OCR 3, and MLLMs), achieving F1-scores up to 95.3% and significantly outperforming zero-shot baselines.
+- Developed parametrized JSON output format for precise bounding-box coordinates, enabling scalable document authentication and validation workflows.
+
+### **[3](public_transport_RAG). [🧬 Molecular Graph Captioning](https://github.com/fasfous92/Molecular_graph_captionning)**
 
 **Bridging Structured Chemical Graphs and Natural Language** A sophisticated multi-modal system that translates 2D molecular structures into human-readable scientific descriptions. It aligns symbolic graph representations with semantic text using a dual-tower architecture and contrastive learning to automate chemical database enrichment and drug discovery reporting.
 
@@ -46,11 +60,13 @@ Here are some of the notable projects I’ve worked on during my academic journe
 * **Techniques:** InfoNCE Contrastive Loss, Hard Negative Mining via Tanimoto Similarity, and Matryoshka Representation Learning.
 * **Focus:** Multi-modal Alignment, Graph Representation Learning, and Domain-Specific NLP.
 
->🔍 **[Check out the Code](https://github.com/fasfous92/Molecular_graph_captionning)**
 
 
+<details>
+  <summary>**Click to view Other projects**</summary>
 
-### **[2](public_transport_RAG). [🗼 Paris Metro AI Agent](https://github.com/fasfous92/public_transport_RAG)**
+
+### **[4](public_transport_RAG). [🗼 Paris Metro AI Agent](https://github.com/fasfous92/public_transport_RAG)**
 
 **Real-time RAG Agent for Public Transport**
   
@@ -64,7 +80,7 @@ A robust AI assistant that helps users navigate the Paris transport network. It 
 >🔍 **[Check out the Code]( https://github.com/fasfous92/public_transport_RAG)**
     
 
-### **[3](QSA_tennis_bounce_hit). [🎾 Tennis Trajectory Analysis & Event Detection](https://github.com/fasfous92/QSA_tennis_bounce_hit)**
+### **[5](QSA_tennis_bounce_hit). [🎾 Tennis Trajectory Analysis & Event Detection](https://github.com/fasfous92/QSA_tennis_bounce_hit)**
 
 **Dataset:** 2025 Roland Garros Final (Time-series sequences) 
 
@@ -78,10 +94,8 @@ A robust AI assistant that helps users navigate the Paris transport network. It 
 
 >🔍 **[Check out the Code](https://github.com/fasfous92/QSA_tennis_bounce_hit)**
 
-<details>
-  <summary>Click to view Other projects</summary>
 
-  ### **[4](adhd_project). [Adhd in social media](https://github.com/NourJadiri/mental_health_disorders_analysis)**
+  ### **[6](adhd_project). [Adhd in social media](https://github.com/NourJadiri/mental_health_disorders_analysis)**
 - **Description**:\
 The main purpose of this project is to implement an ETL (Extract, Transform, Load) pipeline to collect and process data from social media platforms like Reddit and HealthUnlocked. The project focuses on extracting data about ADHD and aims to extract demographics using an agentic/LLM approach to enrich the dataset with valuable insights.
 - **Technologies Used**: Python, Pandas, Airflow, Docker, Redis, Reddit API, HealthUnlocked API, MongoDB, Mistral LLM, Ollama 1B LLMs
@@ -92,7 +106,7 @@ The main purpose of this project is to implement an ETL (Extract, Transform, Loa
   - **Production Database**: Designed a common database schema to facilitate efficient querying and visualization, preparing the data for in-depth analysis and reporting.
  
     
- ### **5. [GEBERIT_webHMI](https://github.com/fasfous92/Geberit_WebHMI)**
+ ### **7. [GEBERIT_webHMI](https://github.com/fasfous92/Geberit_WebHMI)**
 - **Description**:\
 The main purpose of the project was to put in place a protocole of data collection within the production lines of the [Geberit](https://www.geberit.com/)'s factory in Haldensleben, Germany. 
 - **Technologies Used**: MS SQL Server, C#, CSHTML, OPC-UA , SAP Plant Connectivity (pco), ASP.NET.
